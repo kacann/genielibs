@@ -62,6 +62,8 @@ bash$ make develop
 
 Now you should be able to develop the files and see it reflected in your runs.
 
+If you want to contribute to the libraries, please see our [contribution guidelines](https://pubhub.devnetcloud.com/media/pyats-development-guide/docs/contribute/contribute.html#contribution-guidelines).
+
 # ChangeLog
 
 * [conf](pkgs/conf-pkg/changelog/CHANGELOG.md)
